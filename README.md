@@ -9,6 +9,6 @@ Oasis Infobyte Internship tasks.
    I have used seaborn and matplotlib to analyse and create explanatory graphs. I have also used the "calendar" and "datetime" libraries to work with dates. The data has been formatted for further use. 
 3. Car_Price_Pred.ipynb: \
    **Link**: _https://www.canva.com/link?target=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fhellbuoy%2Fcar-price prediction%2Fdownload%3FdatasetVersionNumber%3D1&design=DAFSZMvBiCI&accessRole=viewer&linkSource=document_ \
-   Seaborn and matplotlib was used for EDA. I have used the linear regression model "Ordinary Least Squares (OLS)" "from statsmodels.api". \ 
-   I have created about seven models while comparing VIF ("Variance Inflation Factor," assess multicollinearity in a regression analysis) and p value (< 0.05). \        Finally I created the final model and tested it. \
+   Seaborn and matplotlib was used for EDA. I have used the linear regression model "Ordinary Least Squares (OLS)" "from statsmodels.api".  
+   I have created about seven models while comparing VIF ("Variance Inflation Factor," assess multicollinearity in a regression analysis) and p value (< 0.05).         Finally I created the final model and tested it. \
    The final formula was derived from the summary of the final model. It predicts the car price.
